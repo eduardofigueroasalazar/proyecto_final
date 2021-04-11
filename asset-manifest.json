@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/proyecto_final/static/css/main.c22035ac.chunk.css",
+    "main.js": "/proyecto_final/static/js/main.62ea3887.chunk.js",
+    "main.js.map": "/proyecto_final/static/js/main.62ea3887.chunk.js.map",
+    "runtime-main.js": "/proyecto_final/static/js/runtime-main.683d3c34.js",
+    "runtime-main.js.map": "/proyecto_final/static/js/runtime-main.683d3c34.js.map",
+    "static/js/2.d807eaac.chunk.js": "/proyecto_final/static/js/2.d807eaac.chunk.js",
+    "static/js/2.d807eaac.chunk.js.map": "/proyecto_final/static/js/2.d807eaac.chunk.js.map",
+    "static/js/3.48bae06f.chunk.js": "/proyecto_final/static/js/3.48bae06f.chunk.js",
+    "static/js/3.48bae06f.chunk.js.map": "/proyecto_final/static/js/3.48bae06f.chunk.js.map",
+    "index.html": "/proyecto_final/index.html",
+    "static/css/main.c22035ac.chunk.css.map": "/proyecto_final/static/css/main.c22035ac.chunk.css.map",
+    "static/js/2.d807eaac.chunk.js.LICENSE.txt": "/proyecto_final/static/js/2.d807eaac.chunk.js.LICENSE.txt",
+    "static/media/cargando.176efa05.gif": "/proyecto_final/static/media/cargando.176efa05.gif",
+    "static/media/logo.6ce24c58.svg": "/proyecto_final/static/media/logo.6ce24c58.svg",
+    "static/media/pokemonlogo.6e223bd2.png": "/proyecto_final/static/media/pokemonlogo.6e223bd2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.683d3c34.js",
+    "static/js/2.d807eaac.chunk.js",
+    "static/css/main.c22035ac.chunk.css",
+    "static/js/main.62ea3887.chunk.js"
+  ]
+}
