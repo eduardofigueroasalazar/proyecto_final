@@ -1,0 +1,64 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo{
+    width: 250px;
+}
+
+p {
+    margin: 0;
+}
+
+.Ficha {
+    background: white;
+    border-radius: 20px;
+}
+
+.Ficha__img {
+    text-align: center;
+}
+
+.Ficha__types {
+    display: flex;
+    justify-content: center;  
+    text-transform: capitalize;  
+}
+
+.Ficha__type {
+    padding: 5px 10px;
+    margin: 10px 10px 10px 0;
+    border-radius: 5px;
+    background: #E5709B;
+    color: #fff;
+}
+
+.Ficha__name {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+
+.Ficha__info {
+    margin-left: 10px;
+}
+
+.Ficha__data {
+    padding-bottom: 10px;
+}
+
+.Ficha__data .title {
+    font-weight: 700;
+}
+
+.mensaje{
+    margin-top: 10px;
+}
+
+.cargandoPokemon{
+    width: 80px;
+}
